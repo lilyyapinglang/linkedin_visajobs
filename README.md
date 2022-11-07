@@ -7,11 +7,14 @@ This repository uses a linkedin job posting dataset from Kaggle (https://www.kag
 
 ## Installation
 
-## Python (>=3.7)
+### Python (>=3.7)
+
 ### Get the dataset
 1. Download the `linkedin.db` dataset from kaggle https://www.kaggle.com/datasets/mertguvencli/linkedin-jobs
 2. Place the `linkedin.db` in the same folder as the `DS_Job_Visa.ipynb` 
+
 ### Install needed python libraries 
+
 ```
 pip install matplotlib
 pip install sqlite3
@@ -30,6 +33,7 @@ I’ve always wanted to explore a lifestyle as a digital nomad where you live an
 - `linkdin.db`, contains 26k+ jobs scraped from Linkedin
 
 ## How to interact
+Make sure `linkedin.db` and `DS_Job_Visa.ipynb` are in the same folder, run the .ipynb in IDE of your choice.
 
 ## Summary of Analysis
 For Data Scientists, Data Engineer, Machine Learning or Software Engineer professionals who are interested in relocation and visa sponsoring opportunities to explore another country, among cities of these 11 regions (Germany, Netherlands, United States, France, United Kingdom, Poland, Canada, India, Brazil, Italy, England), targeting below mentioned cities and skillsets when preparing yourself for relocation could be a good bet:
