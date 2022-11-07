@@ -56,4 +56,4 @@ Germany>Netherlands>United States>United Kingdom> France
 
 - Languages: Python>SQL>Java>Go>R
 ## Licensing, Authors, Acknowledgements
-
+Code and documentation copyright 2011–2022 the Bootstrap Authors and Twitter, Inc. Code released under the MIT License. Docs released under Creative Commons.
