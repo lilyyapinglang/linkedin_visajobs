@@ -5,7 +5,7 @@ This repository uses a linkedin job posting dataset from Kaggle (https://www.kag
 - Which country or location has the most job openings that provide visa sponsorship worldwide talents? It should indicate which country is more open to international tech talents.
 - Among those jobs that provide visa sponsorship, what are some general required skills/experiences?
 
-The detailed analysis, thought processes and reults can be found in [Visa-friendly countries/locations for international Data Science professionals]( https://medium.com/@lilyyapinglang/visa-friendly-countries-locations-for-international-data-science-professionals-97989aef5a8c)
+The detailed analysis, thought processes and reults can be found in this Medium post. [Visa-friendly countries/locations for international Data Science professionals]( https://medium.com/@lilyyapinglang/visa-friendly-countries-locations-for-international-data-science-professionals-97989aef5a8c)
 ## Installation
 
 ### Python (>=3.7)
